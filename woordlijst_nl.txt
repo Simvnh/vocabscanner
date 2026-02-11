@@ -164,7 +164,7 @@ genereus
 gerenommeerd 
 gesofisticeerd 
 globaal 
-haaks staan op
+haaks staan
 hautain 
 hiaat 
 hiërarchie 
@@ -205,7 +205,7 @@ input
 integraal
 integriteit
 intentie
-interfereren met
+interfereren
 interim
 interpoleren
 interpreteren
