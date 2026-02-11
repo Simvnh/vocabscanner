@@ -66,7 +66,7 @@ Averroës
 Bacon
 Bayle
 Beauvoir
-Beginsel van de toereikende grond
+Beginsel toereikende grond
 Behaviourisme
 Bentham
 Bergson
@@ -105,13 +105,13 @@ Consequentialisme (Regel-)
 Conservatisme
 Continentale filosofie
 Contingent
-Contradictio in terminis
+Contradictio terminis
 Culturele antropologie
 Cultuur
 Cultuurrelativisme
 D.v. (Deo Volente)
-De facto
-De jure
+facto
+jure
 Decadentie
 Deductieve argumentatie
 Deductief
@@ -229,7 +229,7 @@ Filosoferen
 
 Filosofie
 
-Filosofie van de geest (Philosophy of mind)
+Filosofie geest (Philosophy mind)
 
 Filosoof
 
@@ -261,7 +261,7 @@ Griekse lente
 
 Grond
 
-Grotius (Hugo de Groot)
+Grotius (Hugo Groot)
 
 Habermas
 
@@ -295,7 +295,7 @@ Hobbes
 
 Horkheimer
 
-Hugo de Groot (Hugo Grotius)
+Hugo Groot (Hugo Grotius)
 
 Hume
 
@@ -334,8 +334,6 @@ James
 Jaspers
 
 Juistheid
-
-Hier zijn de begrippen uit de lijst met de letter K:
 
 Kant
 
@@ -380,7 +378,7 @@ MacIntyre
 Malebranche
 Marcel
 Marcus Aurelius
-Mark de Sade
+Mark Sade
 Marx
 Materia
 Materialisme
@@ -445,7 +443,7 @@ Nomos
 
 Non-cognitivisme
 
-Non-reductionisme (t.a.v. persoonlijke identiteit)
+Non-reductionisme (persoonlijke identiteit)
 
 Noodzakelijk
 
@@ -465,7 +463,7 @@ Object
 
 Objectief
 
-Ockham (William of Ockham)
+Ockham (William Ockham)
 
 Omnipotent
 
@@ -531,7 +529,7 @@ Presocraat / Presocratische filosofie
 
 Prima facie verplichting
 
-Principe van het grootste geluk
+Principe grootste geluk
 
 Privé-moraal
 
@@ -558,7 +556,7 @@ q.v. (quod vide)
 
 Qualia
 
-Quine (Willard Van Orman Quine)
+Quine (Willard Orman Quine)
 
 Quis custodiet custodes?
 
@@ -582,7 +580,7 @@ Rechtspositivisme (inclusieve-)
 
 Redenering
 
-Reductionisme (t.a.v. persoonlijke identiteit)
+Reductionisme (persoonlijke identiteit)
 
 Reflective equilibrium
 
@@ -616,7 +614,7 @@ Samengesteld
 
 Sartre (Jean-Paul Sartre)
 
-Saussure (Ferdinand de Saussure)
+Saussure (Ferdinand Saussure)
 
 sc. (scilicet)
 
@@ -668,7 +666,7 @@ Sophia
 
 Speculatief
 
-Spinoza (Benedictus de Spinoza)
+Spinoza (Benedictus Spinoza)
 
 Standpunt
 
@@ -702,7 +700,7 @@ Taylor (Charles Taylor)
 
 Telos
 
-Thales (Thales van Milete)
+Thales (Thales Milete)
 
 Theonomie
 
@@ -710,7 +708,7 @@ Thoreau (Henry David Thoreau)
 
 Thrasymachus
 
-Tocqueville (Alexis de Tocqueville)
+Tocqueville (Alexis Tocqueville)
 
 Toeval
 
@@ -718,7 +716,7 @@ Tolerantie
 
 Trotsky (Leon Trotsky)
 
-Unamuno (Miguel de Unamuno y Jugo)
+Unamuno (Miguel Unamuno y Jugo)
 
 Utilisme
 
@@ -763,7 +761,7 @@ Weber (Max Weber)
 
 Wet
 
-Wet van de toereikende grond
+Wet toereikende grond
 
 Wezensdefinitie (Zaakdefinitie)
 
@@ -775,7 +773,7 @@ Wijsgeer
 
 Wil
 
-Wil tot macht
+Wil macht
 
 Wittgenstein (Ludwig Wittgenstein)
 
