@@ -84,7 +84,7 @@ decennium
 decentralisatie 
 decoderen 
 deduceren 
-de facto 
+facto 
 delegeren 
 demagoog 
 demografie 
@@ -198,7 +198,7 @@ inductie
 inferieur
 informeel
 infrastructuur
-inherent aan
+inherent
 initieel
 innovatie
 input
@@ -328,13 +328,13 @@ reduceren
 referendum
 referentiekader
 referenties
-refereren aan
+refereren
 regulariseren
 rehabiliteren
 relatie
 relatief
 relativeren
-relateren aan
+relateren
 relativeren
 relevant
 rendabel
