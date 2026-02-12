@@ -30,7 +30,7 @@ kennen jullie uit ander vak
 
 geen nieuw concept
 
-niets nieuws  jullie
+ nieuws  jullie
 
 verondersteld bekend
 
@@ -42,7 +42,7 @@ moet bekend
 
  neem jullie al gezien hebben
 
- veronderstel duidelijk is
+ veronderstel duidelijk
 
  veronderstel jullie begrijpen
 
@@ -100,7 +100,7 @@ behoort  basis
 
 kennen jullie waarschijnlijk al
 
-zullen jullie al eens gehoord hebben
+zullen jullie al gehoord hebben
 
 klinkt jullie vast bekend
 
@@ -111,8 +111,6 @@ klinkt jullie vast bekend
   jullie al mee bezig geweest
 
  geen onbekend terrein
-
- nieuw  jullie
 
  al eens bod gekomen
 
@@ -128,7 +126,7 @@ hoef motiveren
 
 hoef bewijzen
 
- ga snel over
+ snel
 
 ga kort houden
 
@@ -184,7 +182,7 @@ neem aan
 
  bekend  
 
- bekend veronderstellen
+veronderstellen
 
  bekend terrein
 
